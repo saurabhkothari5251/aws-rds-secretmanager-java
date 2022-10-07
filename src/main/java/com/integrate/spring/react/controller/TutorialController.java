@@ -1,4 +1,4 @@
-package com.bezkoder.integrate.spring.react.controller;
+package com.integrate.spring.react.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bezkoder.integrate.spring.react.model.Tutorial;
-import com.bezkoder.integrate.spring.react.repository.TutorialRepository;
+import com.integrate.spring.react.model.Tutorial;
+import com.integrate.spring.react.repository.TutorialRepository;
 
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController

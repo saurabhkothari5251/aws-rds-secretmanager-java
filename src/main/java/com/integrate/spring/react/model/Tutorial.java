@@ -1,4 +1,4 @@
-package com.bezkoder.integrate.spring.react.model;
+package com.integrate.spring.react.model;
 
 import javax.persistence.*;
 
